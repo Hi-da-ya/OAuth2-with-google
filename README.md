@@ -33,7 +33,7 @@ venv\Scripts\activate    # On Windows
 
 ### 3. Install Dependencies
 ```sh
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 4. Set Up Environment Variables
